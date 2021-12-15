@@ -1,0 +1,5 @@
+name: Border
+version: '${version}'
+main: main.border
+api-version: 1.18
+load: STARTUP

@@ -1,5 +1,5 @@
 name: Border
-version: '${version}'
+version: 1.0
 main: main.border
 api-version: 1.18
 load: STARTUP
